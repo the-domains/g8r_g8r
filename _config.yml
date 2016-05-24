@@ -1,0 +1,28 @@
+name: G8R_G8R
+favicon: null
+layout_spectrum: 0.9022424607537687
+typography_spectrum: 0.5863910201005638
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6797161551658064
+  lightness: 0.20205923356115818
+  saturation: 0.27263119467534125
+  rhythmicContrast: 0.5525701390579343
+purpose: []
